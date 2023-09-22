@@ -35,8 +35,31 @@ It may also include which technologies I am interested in.
 ### Experience
 
 This would act like a CV where I would put where I worked and what type of work I did there, it would also include the technologies used.
-A timeline with under and over text areas linking to the timeline would be the design.
+A timeline with under and over text areas linked to the timeline would be the design.
 
 ### Portfolio
 
-It would probably be an ordered list sorted by time or by how proud I am of them with a description of what it is and when it was developed.
+It would probably be an ordered list sorted by time or by how satisfied I am of them with an image, a description of what it is and when it was developed.
+If some of those projects are public, it would also link to the public repository.
+
+### Contacts
+
+The contacts wouldn't be a separate page but would be on the footer to be accessible at any time.
+
+## Inspirations
+
+There are millions of websites that one can get inspiration from, here are a few that I like :
+
+- https://itssharl.ee/fr
+- https://p5aholic.me/
+- https://brittanychiang.com/
+- https://bonhomme.lol/
+- https://tamalsen.dev/
+
+There are many more that you can discover with just one search.
+
+## Me, not an other
+
+> What would make me stand out from all the others out there ?
+
+That is a very difficult question to answer. I don't think there is a right answer to this as everyone is unique. It all depends on whether or not I can resonate with the person visiting my page. If they appreciate the design, the content, if they are interested in the story. There are too many factors to take into account to answer this question.
